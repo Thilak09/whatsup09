@@ -18,4 +18,4 @@ adding video call feature
 
 audio call feature
 
-group features upto 20
+group features upto 30
