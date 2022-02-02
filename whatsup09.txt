@@ -9,3 +9,5 @@ founder:thilak
 3.last seen code
 
 4.attachments (image,audio,video) code
+
+hiding last seen code
