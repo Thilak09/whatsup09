@@ -8,7 +8,7 @@ founder:thilak raj
 
 3.last seen code
 
-4.attachments (image,audio,video) code
+4.attachments (image,audio,video,xml file) code
 
 hiding last seen code
 
